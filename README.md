@@ -48,7 +48,7 @@ When a parameter crosses its threshold, the Arduino switches the matching actuat
 
 The system was built and tested on a physical prototype. When temperature exceeds 27 °C the fan turns on; in low light the bulb turns on; when the soil is dry the pump turns on — all shown live on the LCD.
 
-![Prototype](gh_result.png)
+![Prototype]( prototype.png)
 
 ## Hardware Used
 
